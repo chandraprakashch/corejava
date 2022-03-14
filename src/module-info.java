@@ -1,0 +1,3 @@
+module CoreJava {
+	exports CoreJava;
+}
